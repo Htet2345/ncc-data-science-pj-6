@@ -1,0 +1,2 @@
+# Preserve dataset bytes and recognize its standard CSV CRLF line endings.
+data/titanic.csv -text whitespace=cr-at-eol

@@ -1,0 +1,4 @@
+{
+  "version": "0.2.0",
+  "configurations": [{"name": "Train Titanic classifier", "type": "debugpy", "request": "launch", "module": "titanic_prediction", "args": ["train"], "cwd": "${workspaceFolder}", "console": "integratedTerminal", "justMyCode": true}]
+}

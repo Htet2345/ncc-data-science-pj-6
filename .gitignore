@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/
+*.joblib
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+/TEST_REPORT.md

@@ -1,0 +1,12 @@
+{
+  "dataset_id": "40945",
+  "name": "Titanic",
+  "version": "1",
+  "license_as_listed_by_openml": "Public",
+  "metadata_url": "https://www.openml.org/api/v1/json/data/40945",
+  "download_url": "https://www.openml.org/data/get_csv/16826755/phpMYEkMl",
+  "source_sha256": "c617db2c7470716250f6f001be51304c76bcc8815527ab8bae734bdca0735737",
+  "processed_sha256": "a04945d92b6e65e82c1ff38c7a284341a41cc68bae7a47d2eae663994cf2d476",
+  "rows": 1309,
+  "transformation": "Selected modelling fields; ? becomes blank; PassengerId is 1-based source row number. Names, tickets, cabins, boat, body and destinations omitted."
+}
